@@ -1,0 +1,728 @@
+rank,name,location,median_SAT_ACT_score,est_price_2018_19_without_aid,est_price_2018-19_with_avg._grant,percent_with_need_who_get_grants,ave_student_debt,early_career_earnings
+1,Princeton University,"Princeton, NJ",1500/34,67700,19000,100%,7500,69800
+2,University of California-San Diego,"La Jolla, CA",1310/30,32900,15900,95%,18500,58600
+3,University of California-Irvine,"Irvine, CA",1200/27,34700,14800,96%,17000,54900
+4,University of California-Los Angeles,"Los Angeles, CA",1320/31,34700,15300,96%,16300,57500
+5,Stanford University,"Stanford, CA",1480/33,70800,17900,98%,12500,73300
+6,Massachusetts Institute of Technology,"Cambridge, MA",1530/34,69000,23200,96%,17300,81500
+7,University of California-Berkeley,"Berkeley, CA",1410/33,37900,18400,99%,14200,65400
+8,CUNY Bernard M Baruch College,"New York, NY",1240/NA,32500,10200,89%,10800,54500
+9,University of Michigan-Ann Arbor,"Ann Arbor, MI",1410/31,30200,17300,82%,20100,59300
+10,University of Virginia-Main Campus,"Charlottesville, VA",1350/31,33000,17100,84%,19500,59500
+11,University of California-Davis,"Davis, CA",1190/28,36600,17200,96%,14700,56700
+12,California Institute of Technology,"Pasadena, CA",1560/35,70600,28800,100%,14400,78800
+13,Rice University,"Houston, TX",1490/34,64700,23700,98%,10200,65700
+14,University of Pennsylvania,"Philadelphia, PA",1480/34,73400,24600,99%,20600,68100
+15,Yale University,"New Haven, CT",1510/34,73000,19700,100%,13500,66800
+16,Harvard University,"Cambridge, MA",1520/34,71300,17400,100%,6500,69200
+17,Texas A & M University-College Station,"College Station, TX",1190/27,29200,16600,82%,18800,57200
+18,Vanderbilt University,"Nashville, TN",1510/34,69000,24900,92%,14000,61100
+19,Georgia Institute of Technology-Main Campus,"Atlanta, GA",1410/32,29500,14300,87%,24000,68100
+19,University of Washington-Seattle Campus,"Seattle, WA",1250/29,27200,10800,77%,15000,57300
+21,Massachusetts Maritime Academy,"Buzzards Bay, MA",1050/23,26300,15100,71%,27000,63100
+22,California State University-Long Beach,"Long Beach, CA",1050/23,24600,10600,80%,15000,49200
+23,University of Florida,"Gainesville, FL",1280/29,21600,15800,65%,15800,52200
+24,Washington and Lee University,"Lexington, VA",1390/32,67500,25600,100%,21500,59700
+25,University of Illinois at Urbana-Champaign,"Champaign, IL",1380/29,30800,17900,64%,20500,58600
+26,SUNY at Binghamton,"Vestal, NY",1320/30,26700,17800,83%,19500,56400
+27,The University of Texas at Austin,"Austin, TX",1280/29,26100,17200,80%,22300,56900
+28,University of Maryland-College Park,"College Park, MD",1320/31,27100,16900,78%,19500,57600
+29,Virginia Polytechnic Institute and State University,"Blacksburg, VA",1210/NA,26900,18500,71%,24000,58600
+30,University of Notre Dame,"Notre Dame, IN",1450/34,71100,28700,97%,21500,62500
+31,North Carolina State University at Raleigh,"Raleigh, NC",1260/29,24300,14000,90%,20800,53800
+32,University of California-Riverside,"Riverside, CA",1070/24,35500,13800,96%,19100,51600
+33,Duke University,"Durham, NC",1480/33,73500,21400,96%,7500,65300
+34,Stony Brook University,"Stony Brook, NY",1260/29,26100,14600,84%,19000,54300
+35,The College of New Jersey,"Ewing, NJ",1200/28,35300,24100,39%,23300,54400
+36,Williams College,"Williamstown, MA",1440/33,72300,19500,100%,14600,62000
+37,University of Chicago,"Chicago, IL",1530/34,77600,33400,98%,14500,58100
+38,University of California-Santa Barbara,"Santa Barbara, CA",1260/30,37000,16300,93%,16500,54900
+39,James Madison University,"Harrisonburg, VA",1130/25,26700,17500,51%,20900,53400
+40,Purdue University-Main Campus,"West Lafayette, IN",1200/28,23400,12600,64%,21500,58000
+41,Michigan State University,"East Lansing, MI",1130/27,29200,16100,74%,25500,51800
+42,College of the Holy Cross,"Worcester, MA",1290/29,67800,29000,82%,27500,56000
+42,Swarthmore College,"Swarthmore, PA",1420/32,70500,21100,100%,19500,60000
+44,Dartmouth College,"Hanover, NH",1460/32,73600,22700,96%,13500,66300
+45,California State University-Dominguez Hills,"Carson, CA",850/17,22900,3500,86%,14000,46200
+46,Georgetown University,"Washington, DC",1420/32,73300,28600,88%,15500,61400
+47,California State Polytechnic University-Pomona,"Pomona, CA",1030/24,26700,13500,79%,19000,53600
+48,University of Wisconsin-Madison,"Madison, WI",1310/29,26300,17000,77%,22300,53400
+49,California State University-Stanislaus,"Turlock, CA",910/19,21000,8100,87%,15000,47000
+50,University of Connecticut,"Storrs, CT",1230/29,31800,20500,72%,21500,55400
+51,California State University-Los Angeles,"Los Angeles, CA",880/18,25400,4200,95%,12900,47100
+52,Bates College,"Lewiston, ME",NA/NA,70500,25800,100%,14500,55800
+53,Union College,"Schenectady, NY",NA/NA,70300,41500,94%,27000,58500
+54,Barnard College,"New York, NY",1370/31,73000,24500,99%,17800,53500
+55,Colgate University,"Hamilton, NY",1380/32,71500,24100,99%,16100,61400
+56,Columbia University in the City of New York,"New York, NY",1500/34,76000,24700,99%,21500,66000
+57,College of William and Mary,"Williamsburg, VA",1360/31,38300,18000,86%,19500,54400
+58,University of North Carolina at Chapel Hill,"Chapel Hill, NC",1320/31,26200,10800,88%,16500,51200
+59,Brown University,"Providence, RI",1470/33,72800,27100,94%,15000,63000
+60,Boston College,"Chestnut Hill, MA",1360/32,72300,29200,88%,19000,59200
+61,San Jose State University,"San Jose, CA",1040/23,28800,14800,93%,15000,58500
+62,California State University-Chico,"Chico, CA",990/22,25000,14700,78%,17000,52700
+63,Virginia Military Institute,"Lexington, VA",1150/26,31300,17400,81%,25000,62200
+64,California Polytechnic State University-San Luis Obispo,"San Luis Obispo, CA",1260/29,27800,19900,88%,18700,61100
+65,Rutgers University-New Brunswick,"New Brunswick, NJ",1230/NA,32300,16800,70%,22200,55800
+66,California State University-Fresno,"Fresno, CA",910/19,20900,6600,88%,15000,47800
+67,California State University-San Bernardino,"San Bernardino, CA",880/18,24800,6900,89%,16500,45500
+68,University of Delaware,"Newark, DE",1170/26,28500,17100,83%,24200,54300
+69,Babson College,"Wellesley, MA",1270/29,70100,29500,95%,26000,66600
+70,Amherst College,"Amherst, MA",1460/33,73000,20500,100%,13000,60200
+71,Pomona College,"Claremont, CA",1440/33,71400,19500,100%,11000,57500
+72,Clemson University,"Clemson, SC",1250/29,30300,19100,82%,21500,54300
+73,Davidson College,"Davidson, NC",1350/31,68300,30000,98%,17000,53100
+74,Haverford College,"Haverford, PA",1420/33,73300,22700,100%,13000,54700
+75,SUNY College of Environmental Science and Forestry,"Syracuse, NY",1170/25,28000,19400,99%,19800,49700
+76,Hamilton College,"Clinton, NY",1390/32,69300,26200,100%,15800,58600
+77,University of Minnesota-Twin Cities,"Minneapolis, MN",1320/29,28100,17400,84%,20200,53400
+78,Bowdoin College,"Brunswick, ME",NA/NA,69700,26700,100%,18800,55500
+79,San Diego State University,"San Diego, CA",1110/26,28900,15400,80%,15300,51100
+80,Saint Johns University,"Collegeville, MN",1040/25,57200,27500,98%,27000,54700
+81,CUNY Queens College,"Queens, NY",1090/NA,29000,9300,86%,11000,48700
+82,Lafayette College,"Easton, PA",1300/29,70300,28100,94%,26000,61500
+83,Vassar College,"Poughkeepsie, NY",1420/32,72100,23600,99%,15800,52100
+84,California State University-Fullerton,"Fullerton, CA",1020/22,28000,8800,76%,15000,47400
+85,Bentley University,"Waltham, MA",1180/28,67800,38200,98%,26500,62000
+86,Northwestern University,"Evanston, IL",1480/33,74700,31500,98%,19400,59500
+87,University of Massachusetts-Amherst,"Amherst, MA",1230/28,30800,21600,87%,24000,53500
+88,Iowa State University,"Ames, IA",1130/25,21100,14600,97%,23900,52700
+89,California State University-Northridge,"Northridge, CA",920/20,22700,7100,85%,14200,47900
+90,Wellesley College,"Wellesley, MA",1410/32,70700,21500,97%,8900,53800
+91,Wake Forest University,"Winston-Salem, NC",NA/NA,70800,25600,96%,23000,56000
+92,Cornell University,"Ithaca, NY",1430/33,72000,32200,98%,12000,65600
+92,College of Saint Benedict,"Saint Joseph, MN",1010/25,58200,28800,96%,26300,46300
+94,Indiana University-Bloomington,"Bloomington, IN",1180/27,25000,13600,80%,22500,50300
+94,University of Georgia,"Athens, GA",1240/29,27000,16100,92%,19100,50200
+96,University of California-Santa Cruz,"Santa Cruz, CA",1180/28,36900,17500,93%,20000,53500
+97,Citadel Military College of South Carolina,"Charleston, SC",1060/23,29400,19800,79%,23800,56100
+97,George Mason University,"Fairfax, VA",1160/27,29900,19400,78%,19800,55100
+99,DePauw University,"Greencastle, IN",1160/27,64100,33100,100%,25600,52300
+100,University of New Hampshire-Main Campus,"Durham, NH",1100/25,33800,24800,71%,27000,50600
+101,Tufts University,"Medford, MA",1450/33,72300,30100,93%,18000,60400
+102,Brigham Young University-Provo,"Provo, UT",1270/29,18800,13800,80%,11000,55400
+103,Santa Clara University,"Santa Clara, CA",1300/30,71100,40400,71%,21500,63800
+104,University of Richmond,"Richmond, VA",1320/31,66400,24100,98%,21100,55400
+105,Johns Hopkins University,"Baltimore, MD",1490/33,71500,29400,92%,15000,63200
+106,Claremont McKenna College,"Claremont, CA",1410/32,73500,32800,98%,15000,63500
+106,SUNY at Albany,"Albany, NY",1080/24,26300,16200,83%,21100,49300
+108,University of Illinois at Chicago,"Chicago, IL",1110/24,31400,12400,81%,18800,52800
+109,CUNY John Jay College of Criminal Justice,"New York, NY",980/NA,34700,9200,78%,10000,43100
+110,Simmons College,"Boston, MA",1170/27,59600,32000,100%,26000,51300
+111,Wesleyan University,"Middletown, CT",NA/NA,71600,22000,93%,17500,55900
+112,Michigan Technological University,"Houghton, MI",1200/28,29800,17500,79%,26900,63000
+113,University of Southern California,"Los Angeles, CA",1390/32,73900,35400,91%,22400,59400
+113,Ramapo College of New Jersey,"Mahwah, NJ",1080/24,31600,16800,48%,22800,48100
+115,Arizona State University-Tempe,"Tempe, AZ",1150/25,28200,14000,93%,20300,51400
+115,University of Portland,"Portland, OR",1190/NA,60700,34100,78%,24300,55100
+117,Lehigh University,"Bethlehem, PA",1330/31,67500,29500,98%,24300,65400
+117,SUNY Cortland,"Cortland, NY",1070/24,25500,18700,72%,21500,43400
+119,Cooper Union for the Advancement of Science and Art,"New York, NY",1420/31,66600,37300,100%,16700,63900
+120,Ohio State University-Main Campus,"Columbus, OH",1290/29,27700,19300,85%,21500,51900
+121,California State University Maritime Academy,"Vallejo, CA",NA/NA,28800,15700,100%,25500,64600
+122,Florida State University,"Tallahassee, FL",1200/27,22300,17700,77%,20800,47000
+123,Northeastern University,"Boston, MA",1420/33,69800,32200,91%,27900,58300
+124,Franklin and Marshall College,"Lancaster, PA",NA/NA,72100,24900,100%,22000,53700
+125,Bucknell University,"Lewisburg, PA",1290/30,71800,36900,95%,27000,62300
+126,CUNY Hunter College,"New York, NY",1160/NA,22600,11000,86%,11500,48700
+127,Illinois State University,"Normal, IL",NA/24,29600,19800,62%,22000,47900
+128,Emory University,"Atlanta, GA",1400/32,68600,26600,94%,17200,56700
+129,Washington University in St Louis,"Saint Louis, MO",1490/33,73700,30900,97%,19900,60100
+130,Colby College,"Waterville, ME",1370/32,70200,22600,100%,19300,55200
+131,CUNY Lehman College,"Bronx, NY",1000/NA,27800,6600,90%,10200,45300
+132,Harvey Mudd College,"Claremont, CA",1500/34,76200,38100,95%,25500,81000
+133,St Lawrence University,"Canton, NY",NA/NA,69900,33900,100%,27000,52000
+134,Maine Maritime Academy,"Castine, ME",1040/23,27900,20600,72%,27000,63300
+135,University of Vermont,"Burlington, VT",1200/28,34100,19100,93%,22300,49500
+136,University of Iowa,"Iowa City, IA",1170/26,23100,15200,73%,21600,50700
+136,University at Buffalo,"Buffalo, NY",1170/27,26800,17200,76%,19500,50200
+138,College of the Ozarks,"Point Lookout, MO",1090/23,30200,14300,100%,NA,38300
+139,Molloy College,"Rockville Centre, NY",1080/24,51600,29900,93%,27000,57100
+140,Colorado School of Mines,"Golden, CO",1340/31,34500,26900,56%,26000,71900
+141,College of Mount Saint Vincent,"Bronx, NY",880/20,51200,18500,94%,27000,48000
+142,Siena College,"Loudonville, NY",NA/NA,55100,28800,100%,27000,50200
+143,Trinity University,"San Antonio, TX",1270/29,58200,30700,98%,25500,51100
+144,CUNY Brooklyn College,"Brooklyn, NY",1110/NA,22700,10500,82%,10400,48200
+145,Gustavus Adolphus College,"Saint Peter, MN",NA/NA,57100,26100,99%,27000,48200
+146,Gettysburg College,"Gettysburg, PA",NA/NA,68300,37200,95%,22000,52600
+147,Towson University,"Towson, MD",1070/23,26900,16700,62%,17800,48200
+148,Wabash College,"Crawfordsville, IN",1130/26,55900,26000,99%,25000,58900
+149,Washington State University,"Pullman, WA",1050/23,27900,19100,86%,20400,52400
+150,Wheaton College,"Wheaton, IL",1290/30,48800,29900,99%,22500,49600
+150,California State University-Sacramento,"Sacramento, CA",940/20,26400,9800,95%,15800,50900
+152,St Olaf College,"Northfield, MN",1260/29,59700,29300,100%,27000,49000
+153,Villanova University,"Villanova, PA",1320/31,69900,35700,91%,26500,61400
+153,Stevens Institute of Technology,"Hoboken, NJ",1350/31,68800,39900,99%,28300,70800
+155,Carnegie Mellon University,"Pittsburgh, PA",1470/33,71800,37800,95%,26300,70900
+156,Middlebury College,"Middlebury, VT",1390/32,71100,23000,98%,15900,56300
+157,Syracuse University,"Syracuse, NY",1190/27,67100,34200,92%,27000,53900
+158,The College of Saint Scholastica,"Duluth, MN",1010/24,50300,24800,74%,21200,48300
+158,Worcester Polytechnic Institute,"Worcester, MA",NA/NA,66600,43700,97%,27000,69200
+160,Fairfield University,"Fairfield, CT",NA/NA,65900,41400,85%,27000,57100
+161,Bethel University,"Saint Paul, MN",1130/25,51600,29200,100%,24400,47800
+162,McDaniel College,"Westminster, MD",1100/25,57200,25000,100%,27000,48700
+162,Saint Mary's College,"Notre Dame, IN",1070/25,56500,27900,100%,27000,47100
+164,Montclair State University,"Montclair, NJ",NA/NA,31100,16200,63%,23000,47400
+165,Art Center College of Design,"Pasadena, CA",NA/NA,61000,47000,NA,31300,59200
+166,Marquette University,"Milwaukee, WI",1160/27,56600,36000,98%,27000,54300
+167,Temple University,"Philadelphia, PA",NA/NA,33200,22800,84%,26000,48800
+168,St Catherine University,"Saint Paul, MN",1080/22,51900,24200,76%,28000,47500
+169,California State University-East Bay,"Hayward, CA",NA/NA,25700,11600,94%,16300,53900
+170,Assumption College,"Worcester, MA",NA/NA,55900,31600,100%,27000,50700
+171,SUNY College at Brockport,"Brockport, NY",1020/23,24700,15300,81%,20800,43200
+172,Providence College,"Providence, RI",1140/26,66500,37800,98%,27000,54700
+173,Lake Forest College,"Lake Forest, IL",NA/NA,60100,26300,NA,27000,51000
+174,Holy Family University,"Philadelphia, PA",930/NA,48000,16800,94%,27000,48300
+174,Martin Luther College,"New Ulm, MN",1230/24,26200,19600,98%,23100,34700
+176,Touro College,"New York, NY",NA/NA,36000,20300,95%,12500,55700
+177,Case Western Reserve University,"Cleveland, OH",1390/32,67000,35600,97%,24100,62400
+178,Brandeis University,"Waltham, MA",1380/31,72600,34500,94%,27000,55300
+179,MCPHS University,"Boston, MA",1070/24,54600,40200,93%,27000,61700
+180,University of Wisconsin-Eau Claire,"Eau Claire, WI",NA/24,20600,15200,82%,23300,49100
+181,University of Northern Iowa,"Cedar Falls, IA",1050/23,21800,15900,56%,20600,44900
+182,Rowan University,"Glassboro, NJ",1130/25,31800,19400,55%,20000,48400
+182,University of Rochester,"Rochester, NY",NA/NA,71800,36700,100%,24500,57500
+184,Westfield State University,"Westfield, MA",990/22,24700,16700,69%,22800,44200
+185,Boston University,"Boston, MA",1320/30,72000,33900,99%,27000,56100
+186,Occidental College,"Los Angeles, CA",1310/30,73500,34300,99%,23700,51800
+187,Merrimack College,"North Andover, MA",NA/NA,59300,35400,99%,27000,51900
+188,St. Thomas Aquinas College,"Sparkill, NY",940/20,48800,22400,92%,22500,46800
+189,University of St Francis,"Joliet, IL",1010/23,45700,19300,99%,25000,48000
+190,University of Minnesota-Crookston,"Crookston, MN",950/22,24400,14400,91%,20500,46500
+191,University of Scranton,"Scranton, PA",1130/26,62600,36200,95%,27000,52000
+192,Dickinson College,"Carlisle, PA",NA/NA,70700,36900,98%,21000,52400
+193,College of Saint Elizabeth,"Morristown, NJ",820/19,53300,19400,NA,25000,46900
+194,Clarkson University,"Potsdam, NY",1180/27,67700,33500,99%,27000,64200
+195,University of St Thomas,"Saint Paul, MN",1170/27,56000,33100,98%,26000,53400
+196,Dordt College,"Sioux Center, IA",1060/25,44900,25900,100%,23000,47200
+197,John Carroll University,"University Heights, OH",1100/25,57200,29200,98%,26900,47900
+198,New York University,"New York, NY",1370/31,73500,37700,88%,23300,58700
+199,Missouri University of Science and Technology,"Rolla, MO",1280/28,22500,14900,92%,24600,65200
+199,New Jersey Institute of Technology,"Newark, NJ",1210/26,37400,16500,96%,23000,60800
+201,College of Our Lady of the Elms,"Chicopee, MA",950/21,52000,25600,96%,25000,46700
+201,Salisbury University,"Salisbury, MD",NA/NA,25700,19000,78%,20200,47600
+203,University of Utah,"Salt Lake City, UT",1180/24,24200,12200,82%,15000,51100
+204,University of South Florida-Main Campus,"Tampa, FL",1160/26,21900,12200,84%,19100,46400
+205,Berea College,"Berea, KY",1110/25,36200,3100,100%,5800,39200
+206,Florida International University,"Miami, FL",1120/25,24300,13900,79%,17200,46200
+207,Western Washington University,"Bellingham, WA",1110/26,24100,17400,77%,19400,50600
+208,University of Wisconsin-La Crosse,"La Crosse, WI",NA/25,17800,14200,63%,23300,46200
+209,Fresno Pacific University,"Fresno, CA",960/21,44100,19600,77%,21500,42400
+210,SUNY College at Geneseo,"Geneseo, NY",1200/27,25700,18600,79%,20900,47800
+210,University of La Verne,"La Verne, CA",1030/23,61300,23900,66%,25000,47200
+212,St. Mary's University,"San Antonio, TX",1040/22,45600,18100,98%,27000,47800
+213,California State University-Bakersfield,"Bakersfield, CA",NA/NA,26600,6600,90%,13200,47700
+214,Kenyon College,"Gambier, OH",1340/31,70800,30300,99%,19000,51700
+215,Pepperdine University,"Malibu, CA",1220/29,72600,42600,98%,26000,53100
+216,Indiana Wesleyan University-Marion,"Marion, IN",1050/24,38700,21000,83%,24100,45200
+217,The University of Texas at Dallas,"Richardson, TX",1260/28,28000,11000,89%,18800,53600
+218,Stockton University,"Galloway, NJ",1060/22,31000,15400,59%,21100,44500
+219,Mount Saint Mary's University,"Los Angeles, CA",920/20,60800,29100,80%,25000,51400
+220,Denison University,"Granville, OH",1290/30,66500,34400,100%,26000,51000
+221,Le Moyne College,"Syracuse, NY",1110/25,51200,25100,100%,26200,47300
+222,University of Dayton,"Dayton, OH",1130/27,59100,36500,99%,26000,53700
+223,University of San Francisco,"San Francisco, CA",1140/26,67600,37600,84%,25000,56800
+224,University of Oklahoma-Norman Campus,"Norman, OK",1200/26,29100,19300,57%,20000,51900
+225,Duquesne University,"Pittsburgh, PA",1140/27,53400,31100,97%,27000,49600
+226,San Francisco State University,"San Francisco, CA",980/21,27400,14200,89%,17300,52900
+227,North Dakota State University-Main Campus,"Fargo, ND",1150/24,22000,15700,58%,23300,51400
+228,Dominican University of California,"San Rafael, CA",1020/23,66000,36900,100%,27000,51900
+229,Rensselaer Polytechnic Institute,"Troy, NY",1380/30,71800,40200,100%,27500,67500
+229,Skidmore College,"Saratoga Springs, NY",1230/28,71100,25700,100%,19500,51200
+231,Illinois Institute of Technology,"Chicago, IL",1250/29,65300,27800,99%,27000,60600
+232,Endicott College,"Beverly, MA",NA/NA,51500,37100,82%,27000,47600
+233,University of Wisconsin-Platteville,"Platteville, WI",NA/24,19400,15400,59%,24300,53600
+233,University of Evansville,"Evansville, IN",1110/26,52100,23700,100%,27000,48000
+235,Canisius College,"Buffalo, NY",1080/25,53400,22300,99%,24800,43800
+236,SUNY Maritime College,"Throggs Neck, NY",1120/25,25900,17500,68%,26500,71600
+237,Grinnell College,"Grinnell, IA",1430/32,67800,32200,100%,13200,48800
+237,Taylor University,"Upland, IN",1100/26,46400,27300,100%,24000,44900
+239,Smith College,"Northampton, MA",NA/NA,71200,26000,98%,19000,48800
+240,State University of New York at New Paltz,"New Paltz, NY",1110/25,24800,15700,59%,19000,44800
+241,Wofford College,"Spartanburg, SC",1160/27,59100,27500,100%,25700,47200
+242,Texas Tech University,"Lubbock, TX",1110/25,24200,16400,86%,22500,53400
+243,Pennsylvania State University-Main Campus,"University Park, PA",1200/27,37200,26900,50%,26800,55200
+244,Carleton College,"Northfield, MN",1430/32,70500,30700,100%,19500,53800
+245,Connecticut College,"New London, CT",NA/NA,71100,29800,94%,23600,53200
+246,West Chester University of Pennsylvania,"West Chester, PA",1060/23,27400,20000,58%,23500,46700
+247,Loyola Marymount University,"Los Angeles, CA",1230/28,66300,44000,95%,21700,53800
+248,Hope College,"Holland, MI",1140/26,46500,29800,87%,27000,46200
+249,Marist College,"Poughkeepsie, NY",NA/NA,56200,38500,71%,26000,51600
+249,SUNY Oneonta,"Oneonta, NY",1070/24,24700,16600,81%,21500,44200
+251,Adelphi University,"Garden City, NY",1110/25,57700,30200,97%,25500,51500
+252,Saint John Fisher College,"Rochester, NY",1060/24,48900,29300,100%,23900,44000
+253,Saint Mary's College of California,"Moraga, CA",1060/25,67100,38300,98%,25000,56000
+254,Oklahoma State University-Main Campus,"Stillwater, OK",1090/24,24200,15000,76%,20500,49700
+255,Saint Michael's College,"Colchester, VT",NA/NA,58900,33600,99%,28000,50400
+256,Loyola University Maryland,"Baltimore, MD",NA/NA,66100,36700,76%,27000,55100
+257,Salve Regina University,"Newport, RI",NA/NA,58100,33200,100%,27000,49900
+258,University of North Dakota,"Grand Forks, ND",1080/24,21900,15800,70%,24500,50900
+259,Concordia University-Saint Paul,"Saint Paul, MN",NA/NA,35300,20900,93%,22400,47200
+260,Niagara University,"Niagara, NY",1030/23,48500,19900,98%,25000,42100
+261,Rose-Hulman Institute of Technology,"Terre Haute, IN",1320/30,66600,44800,85%,27000,71600
+262,Immaculata University,"Immaculata, PA",970/21,47100,31600,NA,27000,47600
+263,Colorado College,"Colorado Springs, CO",NA/NA,70300,25600,95%,20500,49700
+264,Lewis University,"Romeoville, IL",1100/24,46500,21700,95%,24600,47400
+265,University of Nebraska-Lincoln,"Lincoln, NE",1140/25,25700,17700,76%,21700,48700
+266,Manhattan College,"Riverdale, NY",1110/26,61700,35000,81%,26000,60700
+267,John Brown University,"Siloam Springs, AR",1130/26,39800,21100,91%,21900,44000
+268,Calvin College,"Grand Rapids, MI",1170/26,47900,27300,99%,26400,47000
+268,Misericordia University,"Dallas, PA",1050/24,48600,26500,100%,27000,45000
+270,St. Joseph's College-New York,"Brooklyn, NY",1010/23,35400,18100,99%,21500,43700
+271,Aurora University,"Aurora, IL",950/22,37900,19700,91%,22300,44900
+272,Mount Holyoke College,"South Hadley, MA",NA/NA,65400,29200,99%,21200,48800
+273,Loras College,"Dubuque, IA",1090/23,44900,19300,100%,27000,44500
+274,Concordia College at Moorhead,"Moorhead, MN",NA/NA,50700,25300,98%,27000,44900
+274,Louisiana State University and Agricultural & Mechanical College,"Baton Rouge, LA",1130/26,30400,16200,86%,20900,51800
+276,Furman University,"Greenville, SC",NA/NA,65200,33300,100%,25400,48100
+277,Augustana University,"Sioux Falls, SD",1080/26,46500,21400,99%,27000,44800
+278,Saint Joseph's University,"Philadelphia, PA",1140/26,62300,38700,92%,23000,53300
+279,Waynesburg University,"Waynesburg, PA",970/22,36900,19900,98%,27000,43700
+280,Stonehill College,"Easton, MA",NA/NA,61000,33300,97%,27000,51800
+281,Bryant University,"Smithfield, RI",NA/NA,61300,39200,70%,27000,56300
+282,Muhlenberg College,"Allentown, PA",1230/28,66900,39400,97%,26500,50000
+282,Lebanon Valley College,"Annville, PA",1100/25,58800,28300,99%,27000,46100
+284,Keuka College,"Keuka Park, NY",950/21,48600,25900,82%,25900,43300
+284,George Washington University,"Washington, DC",1290/30,71000,42500,94%,25000,56200
+284,Hobart William Smith Colleges,"Geneva, NY",1260/28,71400,41700,99%,27000,52400
+287,Farmingdale State College,"Farmingdale, NY",970/21,24700,9300,79%,16000,49100
+288,Drake University,"Des Moines, IA",1200/28,55300,30200,98%,26000,49200
+289,Juniata College,"Huntingdon, PA",NA/NA,59600,30200,98%,27000,47600
+290,Saint Vincent College,"Latrobe, PA",1050/23,50100,24600,80%,27000,46200
+291,Milwaukee School of Engineering,"Milwaukee, WI",1250/28,53300,25800,100%,27000,63400
+292,Seton Hall University,"South Orange, NJ",1160/25,58500,29900,58%,25000,53900
+292,Edgewood College,"Madison, WI",1020/23,43700,25900,98%,25500,46500
+294,Saint Norbert College,"De Pere, WI",1100/25,49300,26000,97%,27000,47800
+294,University of Redlands,"Redlands, CA",1090/25,68600,36700,99%,28500,50200
+296,Bradley University,"Peoria, IL",1100/25,47800,28700,96%,27000,52000
+297,Westminster College,"New Wilmington, PA",1050/23,50700,22400,99%,27000,44400
+298,California State University-San Marcos,"San Marcos, CA",960/21,25900,9600,90%,18000,47900
+298,Ohio Northern University,"Ada, OH",1130/26,47200,26100,99%,27000,51400
+300,Centre College,"Danville, KY",1210/29,55200,27400,99%,27000,46700
+301,Seattle University,"Seattle, WA",1180/28,61000,38300,91%,24500,55000
+301,Kansas State University,"Manhattan, KS",NA/NA,24900,17600,56%,22500,50000
+301,Gonzaga University,"Spokane, WA",1210/28,58700,36100,100%,26400,53800
+301,DePaul University,"Chicago, IL",NA/NA,57600,34400,86%,23300,51500
+305,St Mary's College of Maryland,"St. Mary's City, MD",1130/26,30400,21200,73%,20400,50600
+306,University of Mary Washington,"Fredericksburg, VA",1110/25,28100,22000,64%,21500,50600
+307,Sonoma State University,"Rohnert Park, CA",980/22,26700,17400,65%,17500,50100
+308,Southern Methodist University,"Dallas, TX",1320/30,74100,40300,73%,21500,55000
+309,University of Arizona,"Tucson, AZ",NA/NA,29000,17700,89%,19000,52700
+310,Colorado State University-Fort Collins,"Fort Collins, CO",1140/26,26600,17400,68%,21000,49900
+311,Daemen College,"Amherst, NY",NA/NA,44200,18400,98%,20400,43400
+312,Oregon State University,"Corvallis, OR",1120/25,26800,20900,80%,23500,52200
+313,Saint Francis University,"Loretto, PA",1060/24,53200,26700,56%,27000,44800
+314,Concordia University-Nebraska,"Seward, NE",1000/24,43500,20800,100%,25300,38400
+315,Pacific Lutheran University,"Tacoma, WA",1110/25,56100,27100,99%,25800,50000
+316,Massachusetts College of Art and Design,"Boston, MA",1070/24,30400,23300,80%,25300,46500
+316,University of Miami,"Coral Gables, FL",1300/30,67900,40200,51%,19800,52700
+318,Louisiana Tech University,"Ruston, LA",1090/24,20900,10200,92%,19900,50300
+318,Miami University-Oxford,"Oxford, OH",1240/29,32600,21700,85%,24800,53500
+320,Bethel College-Indiana,"Mishawaka, IN",1030/23,41700,21000,NA,26100,39800
+320,Kean University,"Union, NJ",920/20,30000,17400,70%,25000,45700
+320,Augustana College,"Rock Island, IL",NA/NA,54700,25300,98%,27000,45000
+323,Spelman College,"Atlanta, GA",1080/24,52900,34800,79%,27000,47500
+324,Macalester College,"Saint Paul, MN",1380/31,67900,30600,99%,22700,49500
+325,Saint Louis University,"Saint Louis, MO",1220/28,58600,35700,94%,26000,51000
+326,Illinois College,"Jacksonville, IL",NA/NA,43900,19700,100%,27000,42800
+327,Cedar Crest College,"Allentown, PA",990/22,53400,20600,100%,27800,45200
+328,University of Minnesota-Duluth,"Duluth, MN",1090/24,25000,16800,85%,25000,49600
+329,Saint Mary's University of Minnesota,"Winona, MN",1010/23,46400,22800,97%,23300,48800
+330,Rochester Institute of Technology,"Rochester, NY",1240/29,56000,31300,95%,28000,58400
+331,California State University-Monterey Bay,"Seaside, CA",NA/NA,23900,12200,75%,14000,46200
+331,California State University-Channel Islands,"Camarillo, CA",NA/NA,29300,15500,NA,15200,47700
+333,Fordham University,"Bronx, NY",1270/29,74000,40800,96%,26000,54400
+334,Central Washington University,"Ellensburg, WA",1060/21,23100,15100,84%,20700,49000
+335,Clark University,"Worcester, MA",NA/NA,56300,28300,97%,27000,47600
+336,Gannon University,"Erie, PA",1030/23,47700,23600,98%,27000,48100
+337,Cedarville University,"Cedarville, OH",1200/26,40100,24500,79%,22500,48600
+338,Regis University,"Denver, CO",1060/24,52400,28500,86%,22900,53800
+338,The University of Findlay,"Findlay, OH",990/23,46700,21600,100%,25000,46500
+340,Albion College,"Albion, MI",1050/23,58100,22200,100%,27200,48500
+341,Quinnipiac University,"Hamden, CT",1090/25,65300,40200,97%,26000,52400
+342,Goshen College,"Goshen, IN",1030/26,47600,18700,98%,20100,42900
+343,La Salle University,"Philadelphia, PA",980/22,46600,28700,97%,27000,51100
+344,University of Wisconsin-Stout,"Menomonie, WI",NA/22,20200,15100,72%,25500,48000
+345,University of South Dakota,"Vermillion, SD",1050/23,22800,17700,NA,25000,45600
+345,Nebraska Wesleyan University,"Lincoln, NE",1090/24,47700,25300,99%,25000,43500
+347,Keene State College,"Keene, NH",980/21,27900,20000,70%,26300,46100
+348,Mississippi State University,"Starkville, MS",NA/25,25000,16800,87%,23300,47900
+349,University of Wyoming,"Laramie, WY",1090/24,20300,14100,66%,18500,49700
+349,University of Mount Olive,"Mount Olive, NC",1090/20,31900,16200,92%,28000,39800
+351,University of Central Florida,"Orlando, FL",1180/26,22800,16700,71%,18300,46400
+352,Messiah College,"Mechanicsburg, PA",1150/26,49100,29000,99%,26000,47600
+353,Truman State University,"Kirksville, MO",1200/27,21600,13400,94%,22700,45000
+354,SUNY College at Old Westbury,"Old Westbury, NY",970/22,23900,10800,86%,16200,45400
+355,SUNY College at Plattsburgh,"Plattsburgh, NY",1100/23,25200,15300,86%,22000,43400
+355,University of Rhode Island,"Kingston, RI",1070/25,30200,19700,86%,23400,50900
+357,Susquehanna University,"Selinsgrove, PA",NA/NA,61200,28500,100%,27000,47300
+358,Monmouth University,"West Long Branch, NJ",1030/23,56200,31800,57%,26700,48400
+359,University of Massachusetts-Lowell,"Lowell, MA",1170/27,30600,19700,88%,25000,55400
+360,Whitman College,"Walla Walla, WA",1310/30,66100,36800,100%,17500,50000
+361,Bryn Mawr College,"Bryn Mawr, PA",1340/30,70100,34300,98%,26000,50200
+362,University of Pittsburgh-Pittsburgh Campus,"Pittsburgh, PA",1290/30,34000,25300,74%,26900,52100
+362,Luther College,"Decorah, IA",1060/26,55300,27300,100%,27000,46400
+364,Allegheny College,"Meadville, PA",NA/NA,62600,28500,100%,29000,46700
+365,Trinity Christian College,"Palos Heights, IL",1040/24,43300,24400,98%,24600,44400
+366,Mount Mercy University,"Cedar Rapids, IA",NA/21,45800,21600,98%,22300,45800
+367,Ursinus College,"Collegeville, PA",NA/NA,67800,33900,100%,27000,50200
+367,Wheaton College,"Norton, MA",NA/NA,67400,35200,99%,26000,48900
+369,Appalachian State University,"Boone, NC",1140/25,19500,10900,74%,20500,43900
+369,Wartburg College,"Waverly, IA",990/24,53100,24100,100%,27000,46100
+371,Illinois Wesleyan University,"Bloomington, IL",1270/27,60200,33500,100%,27000,49000
+372,Elon University,"Elon, NC",1190/27,50800,36700,90%,23300,49400
+373,Linfield College-McMinnville Campus,"McMinnville, OR",1040/22,58100,30500,80%,25000,49000
+374,Scripps College,"Claremont, CA",1370/30,72800,40700,100%,14000,51000
+375,Auburn University,"Auburn, AL",1160/27,32000,23300,72%,21500,50700
+376,University of Maine,"Orono, ME",1070/24,24800,16900,87%,26000,49000
+377,Texas Christian University,"Fort Worth, TX",1180/28,64500,35800,93%,21500,52900
+378,SUNY College of Technology at Alfred,"Alfred, NY",950/22,25500,15400,NA,14900,47900
+379,Knox College,"Galesburg, IL",NA/NA,57900,25000,98%,27000,45600
+380,University of the Pacific,"Stockton, CA",1170/27,66400,36300,97%,24600,55500
+381,Tulane University of Louisiana,"New Orleans, LA",1330/31,71400,34900,97%,27500,52300
+382,Yeshiva University,"New York, NY",1230/27,62000,33300,NA,19500,58900
+383,University of Nebraska at Kearney,"Kearney, NE",930/22,23100,16700,85%,21300,41900
+384,Beloit College,"Beloit, WI",1220/27,60900,27700,98%,27000,45300
+385,Grand Valley State University,"Allendale, MI",1050/24,24800,17100,84%,25000,44500
+386,Ithaca College,"Ithaca, NY",NA/NA,62800,37600,98%,25800,48700
+387,Kalamazoo College,"Kalamazoo, MI",NA/NA,60700,30000,99%,26500,47400
+388,University of San Diego,"San Diego, CA",1210/28,67000,41400,95%,22900,54400
+389,Carlow University,"Pittsburgh, PA",970/22,44200,19600,81%,27000,41800
+390,Radford University,"Radford, VA",NA/NA,23800,15100,60%,23000,46200
+391,Sewanee-The University of the South,"Sewanee, TN",NA/NA,62400,33000,98%,19000,46000
+392,Houghton College,"Houghton, NY",1100/25,45500,23100,100%,25500,41000
+393,Elmhurst College,"Elmhurst, IL",1040/23,51200,20200,100%,21500,46900
+394,Central College,"Pella, IA",1120/24,51800,24400,100%,27000,46200
+395,Austin College,"Sherman, TX",1210/26,55100,24800,100%,26000,48200
+396,South Dakota State University,"Brookings, SD",1030/23,23400,23000,50%,25100,47900
+397,Slippery Rock University of Pennsylvania,"Slippery Rock, PA",1000/21,25000,18700,65%,25000,42900
+398,Saint Peter's University,"Jersey City, NJ",930/20,55300,15800,99%,25000,50700
+399,University of Wisconsin-Oshkosh,"Oshkosh, WI",NA/22,19500,14100,57%,23700,45300
+400,University of North Carolina at Charlotte,"Charlotte, NC",1120/24,24200,13000,76%,23000,49300
+400,Lycoming College,"Williamsport, PA",1030/23,55200,20900,100%,27000,44500
+402,Augsburg College,"Minneapolis, MN",1060/22,52500,26200,99%,27000,47400
+403,Winona State University,"Winona, MN",930/23,22300,18400,69%,24000,46700
+404,Madonna University,"Livonia, MI",NA/21,35000,15900,88%,25000,43700
+404,Tennessee Technological University,"Cookeville, TN",1080/24,27100,15800,55%,16000,51000
+406,Lawrence University,"Appleton, WI",1270/29,59900,31400,99%,27400,47000
+407,The New School,"New York, NY",1160/26,71100,48900,NA,23900,50000
+408,California Lutheran University,"Thousand Oaks, CA",1100/25,61300,31200,99%,23000,48000
+409,University of South Carolina-Columbia,"Columbia, SC",1210/28,27700,21400,44%,23300,46900
+410,University of Missouri-Columbia,"Columbia, MO",1160/26,27200,17500,80%,21900,49100
+411,Millikin University,"Decatur, IL",1000/23,48800,23600,89%,27000,44300
+412,University of Kansas,"Lawrence, KS",NA/26,25900,19300,76%,20500,49500
+413,Tennessee State University,"Nashville, TN",NA/NA,21800,10300,80%,28000,46100
+413,University of Idaho,"Moscow, ID",1050/24,21800,15900,73%,24300,49300
+413,University of Maryland-Baltimore County,"Baltimore, MD",1220/27,28200,16500,72%,21200,54000
+416,St John's University-New York,"Queens, NY",1080/25,61300,28500,78%,26000,51800
+417,University of Saint Francis-Fort Wayne,"Fort Wayne, IN",1000/22,43200,18300,99%,25300,43600
+418,University of Denver,"Denver, CO",1210/29,66900,35400,98%,23700,51700
+418,Drexel University,"Philadelphia, PA",1190/28,70400,41900,95%,26200,58400
+420,University of Minnesota-Morris,"Morris, MN",1150/25,24500,12400,96%,19500,44400
+421,Bellarmine University,"Louisville, KY",1070/25,60700,26600,98%,25000,46900
+422,Wentworth Institute of Technology,"Boston, MA",1120/25,55400,39300,84%,27000,59200
+423,East Carolina University,"Greenville, NC",1050/22,22500,13800,74%,24800,45600
+423,Cardinal Stritch University,"Milwaukee, WI",1010/20,43700,18600,94%,27000,48000
+425,University of Maine at Farmington,"Farmington, ME",NA/NA,23100,15400,91%,27000,40100
+426,Westmont College,"Santa Barbara, CA",1160/26,62400,37600,100%,25100,50700
+427,Huntington University,"Huntington, IN",1030/22,38200,23100,77%,27000,37700
+428,Montana State University,"Bozeman, MT",1130/25,21600,16100,69%,24000,50900
+429,Maryville University of Saint Louis,"Saint Louis, MO",1030/25,47200,28600,97%,23700,45100
+430,Bay Path University,"Longmeadow, MA",960/22,50500,23600,100%,24000,41800
+431,Clarke University,"Dubuque, IA",960/23,47000,25500,100%,26000,42600
+432,Mount Vernon Nazarene University,"Mount Vernon, OH",1050/23,42100,20700,99%,26500,41300
+433,Moravian College,"Bethlehem, PA",1010/23,59300,31400,100%,27000,49600
+434,University of Oregon,"Eugene, OR",1100/25,27500,16500,73%,21100,47600
+435,Southwest Minnesota State University,"Marshall, MN",920/21,21300,15900,71%,21700,42300
+436,Loyola University Chicago,"Chicago, IL",1150/27,61400,37500,96%,25000,49600
+437,Dominican University,"River Forest, IL",1060/23,46100,19600,99%,25000,46600
+438,Bloomsburg University of Pennsylvania,"Bloomsburg, PA",970/21,24900,17200,64%,26000,46500
+439,Saint Anselm College,"Manchester, NH",1140/26,58200,34500,100%,27000,52500
+440,Fitchburg State University,"Fitchburg, MA",990/21,24600,15400,70%,22700,45400
+441,Lewis & Clark College,"Portland, OR",1280/29,63600,38500,99%,24500,46800
+441,Elizabethtown College,"Elizabethtown, PA",1080/25,59900,30600,100%,27000,46600
+443,Rivier University,"Nashua, NH",NA/NA,49300,27000,97%,25500,47500
+443,University of Wisconsin-Whitewater,"Whitewater, WI",1000/23,18200,13800,62%,25000,46100
+443,Seattle Pacific University,"Seattle, WA",1110/24,57800,31300,100%,25600,49000
+446,University of Arkansas,"Fayetteville, AR",1120/26,25500,16500,76%,21500,49100
+447,SUNY College at Oswego,"Oswego, NY",1100/25,24700,17600,87%,21500,42800
+448,Fairleigh Dickinson University-Metropolitan Campus,"Teaneck, NJ",970/20,58000,19300,84%,26000,47400
+449,Rockhurst University,"Kansas City, MO",1080/26,52900,25500,100%,20500,51500
+450,University of Detroit Mercy,"Detroit, MI",1120/25,58800,24000,98%,23500,50900
+451,University of Colorado Boulder,"Boulder, CO",1190/28,30900,24400,76%,19500,53400
+452,Mississippi University for Women,"Columbus, MS",1080/21,19600,10800,69%,15000,40500
+453,Pitzer College,"Claremont, CA",NA/NA,72200,27400,98%,15900,49000
+454,Rhodes College,"Memphis, TN",1270/29,63000,32000,100%,26200,47900
+455,Winston-Salem State University,"Winston-Salem, NC",870/18,20300,11100,85%,25700,44900
+456,Presbyterian College,"Clinton, SC",1110/25,53200,21200,100%,26100,46000
+457,Transylvania University,"Lexington, KY",NA/NA,51800,25400,100%,27000,46000
+458,Northwood University,"Midland, MI",1000/22,41300,24200,85%,21800,45600
+459,Rider University,"Lawrenceville, NJ",1010/22,61100,31200,98%,25800,48700
+460,Azusa Pacific University,"Azusa, CA",1020/23,53700,30600,98%,22500,47200
+461,Worcester State University,"Worcester, MA",1010/24,26300,16800,81%,20000,47600
+462,DeSales University,"Center Valley, PA",1060/25,53600,27400,94%,26000,47400
+462,University of Northwestern-St Paul,"Saint Paul, MN",1100/24,44400,25600,97%,22100,42900
+464,Framingham State University,"Framingham, MA",990/23,26800,18300,81%,24700,46900
+465,University of Nevada-Reno,"Reno, NV",1090/24,24800,16100,77%,18800,50300
+466,University of Wisconsin-River Falls,"River Falls, WI",NA/23,20400,15100,57%,22700,44400
+467,Saint Edward's University,"Austin, TX",1110/25,60100,26400,90%,25300,45600
+468,Franklin College,"Franklin, IN",970/22,45400,23700,100%,27000,45100
+469,Lincoln Memorial University,"Harrogate, TN",1000/22,37400,17500,NA,17000,41100
+470,University of North Carolina School of the Arts,"Winston-Salem, NC",1140/25,22500,14400,86%,27000,44200
+471,Biola University,"La Mirada, CA",1090/24,55800,34700,98%,24500,47000
+472,Wagner College,"Staten Island, NY",NA/NA,63700,29200,99%,26400,53900
+472,Central Connecticut State University,"New Britain, CT",1000/22,25800,15900,61%,22500,49900
+474,American University,"Washington, DC",1250/29,65800,34100,87%,24300,51800
+474,Lakeland University,"Plymouth, WI",910/19,42200,22800,86%,25500,45200
+476,Marian University,"Fond Du Lac, WI",NA/20,39900,23200,98%,27000,46100
+477,Xavier University,"Cincinnati, OH",1100/26,53600,29800,67%,27000,48600
+478,Washington & Jefferson College,"Washington, PA",NA/NA,61600,29100,85%,27000,45800
+479,Willamette University,"Salem, OR",NA/NA,63800,35000,99%,26000,47700
+480,Longwood University,"Farmville, VA",970/21,27600,20200,76%,25000,44500
+481,University of Puget Sound,"Tacoma, WA",NA/NA,65000,43400,99%,27000,50500
+482,Otis College of Art and Design,"Los Angeles, CA",NA/NA,66200,42300,99%,27000,49600
+482,Iona College,"New Rochelle, NY",1000/23,57200,29000,41%,26000,52000
+484,MidAmerica Nazarene University,"Olathe, KS",890/22,43100,19800,96%,18800,45700
+484,Texas State University,"San Marcos, TX",1030/23,23200,13600,81%,21300,46900
+486,Ball State University,"Muncie, IN",1080/22,24900,14400,59%,25000,43100
+487,Unity College,"Unity, ME",NA/NA,41500,27000,100%,27000,38400
+488,The Sage Colleges,"Troy, NY",NA/NA,46500,21600,74%,23300,43200
+489,Georgian Court University,"Lakewood, NJ",950/20,52200,24000,97%,25000,42700
+490,Trinity College,"Hartford, CT",NA/NA,73200,25100,97%,21000,55600
+491,William Paterson University of New Jersey,"Wayne, NJ",990/NA,29400,16700,68%,24500,47800
+492,Sarah Lawrence College,"Bronxville, NY",1290/29,72000,35300,97%,13500,47600
+493,Ripon College,"Ripon, WI",1010/24,53600,22400,99%,28000,43600
+494,Felician University,"Lodi, NJ",900/19,51800,19000,83%,25000,51500
+495,Catholic University of America,"Washington, DC",NA/NA,64000,38700,98%,26100,52800
+496,West Virginia University,"Morgantown, WV",1020/24,23000,11600,70%,24000,50800
+497,Emmanuel College,"Boston, MA",1120/25,58200,34200,100%,27000,46700
+498,Franciscan University of Steubenville,"Steubenville, OH",1170/25,38700,28300,99%,22000,44400
+499,Butler University,"Indianapolis, IN",1160/28,58100,35700,98%,27000,48900
+500,Southwestern University,"Georgetown, TX",1170/26,55600,27500,99%,26900,50300
+501,Valparaiso University,"Valparaiso, IN",1100/26,54300,24300,100%,27000,50700
+501,Baylor University,"Waco, TX",1220/28,61700,39000,97%,25000,51600
+501,Point Loma Nazarene University,"San Diego, CA",1140/26,51000,32200,94%,25000,48300
+504,North Central College,"Naperville, IL",1080/25,52500,26000,100%,25000,47200
+504,University of Tulsa,"Tulsa, OK",1250/30,60900,29300,36%,27000,55800
+506,Covenant College,"Lookout Mountain, GA",1180/27,47000,26600,99%,21500,41700
+507,Simpson College,"Indianola, IA",1080/24,51400,25100,98%,27000,46500
+508,Agnes Scott College,"Decatur, GA",NA/NA,55400,22900,100%,27000,42900
+509,SUNY at Fredonia,"Fredonia, NY",1010/25,24200,17800,74%,25000,41800
+510,Christopher Newport University,"Newport News, VA",1160/26,30400,24300,65%,25000,47300
+511,St Francis College,"Brooklyn Heights, NY",930/21,45600,15900,98%,24400,49300
+512,University of Mississippi,"Oxford, MS",1120/26,25400,15800,85%,20000,45700
+513,Creighton University,"Omaha, NE",1170/27,54700,32600,96%,25300,50000
+514,Northwestern College,"Orange City, IA",1040/25,44700,24300,96%,25100,42200
+515,The College of Saint Rose,"Albany, NY",NA/NA,48400,25000,81%,23500,41700
+516,Walsh University,"North Canton, OH",1000/22,44200,21700,80%,27800,44900
+517,Ohio Wesleyan University,"Delaware, OH",NA/NA,61800,30000,100%,27000,47800
+518,University of Wisconsin-Stevens Point,"Stevens Point, WI",NA/23,19400,13500,74%,24400,43000
+519,Saint Ambrose University,"Davenport, IA",NA/23,45900,25800,99%,25800,44500
+520,University of Hawaii at Manoa,"Honolulu, HI",1080/23,30200,14500,94%,18800,48600
+521,Northern State University,"Aberdeen, SD",960/21,21800,15400,83%,24400,41700
+522,Mount St Mary's University,"Emmitsburg, MD",1050/22,57400,32700,99%,26000,46400
+523,University of North Carolina Wilmington,"Wilmington, NC",1200/24,25200,17400,92%,20500,43400
+524,Oberlin College,"Oberlin, OH",1350/31,73000,45200,99%,26600,49400
+524,Earlham College,"Richmond, IN",NA/NA,60100,24200,100%,26000,46000
+526,Whittier College,"Whittier, CA",1030/23,62900,27500,88%,25500,47000
+527,University of North Carolina at Asheville,"Asheville, NC",1150/26,20400,12400,94%,20600,40900
+528,University of North Texas,"Denton, TX",1090/24,24500,11200,68%,20000,46800
+529,University of the Sciences,"Philadelphia, PA",1170/26,61500,37400,68%,27000,54000
+530,Grace College and Theological Seminary,"Winona Lake, IN",1050/24,34800,19400,95%,21500,41100
+531,Texas A & M University-Commerce,"Commerce, TX",980/21,22200,9700,90%,20500,44200
+532,Salem State University,"Salem, MA",990/22,26900,17800,NA,24000,45600
+533,Carroll College,"Helena, MT",1110/25,49700,27300,99%,27000,45600
+534,Nazareth College,"Rochester, NY",NA/NA,50600,30500,100%,26500,41400
+535,St Bonaventure University,"Saint Bonaventure, NY",1050/24,48500,25100,100%,27000,45700
+536,Robert Morris University Illinois,"Chicago, IL",NA/NA,46400,22800,91%,24500,42600
+537,University of North Florida,"Jacksonville, FL",1130/24,21700,14500,64%,16000,45600
+538,University of Kentucky,"Lexington, KY",1130/26,30200,19200,46%,22800,48400
+538,Chapman University,"Orange, CA",1210/28,71100,43700,90%,20900,49200
+540,The University of Tennessee-Knoxville,"Knoxville, TN",1150/27,31700,22300,88%,20000,48000
+541,Pratt Institute-Main,"Brooklyn, NY",1170/27,66900,47500,50%,26300,49900
+542,King's College,"Wilkes-Barre, PA",NA/NA,53300,27800,100%,27000,44100
+543,Eastern Illinois University,"Charleston, IL",NA/21,24200,15900,75%,23700,43800
+544,Hanover College,"Hanover, IN",1050/25,51700,24600,100%,27000,44800
+545,Baldwin Wallace University,"Berea, OH",NA/NA,47100,24000,100%,27000,44500
+546,Rhode Island School of Design,"Providence, RI",1210/27,69200,42300,91%,27000,50500
+547,Shippensburg University of Pennsylvania,"Shippensburg, PA",970/21,28900,19700,74%,25000,46200
+548,Alfred University,"Alfred, NY",1030/23,44700,23700,99%,27000,48600
+549,University of Dallas,"Irving, TX",1170/27,56200,27100,98%,24000,49100
+550,Judson University,"Elgin, IL",1070/22,43800,26500,34%,23000,41900
+550,Westminster College,"Salt Lake City, UT",1110/25,48900,26400,99%,25000,48800
+552,Bridgewater State University,"Bridgewater, MA",990/22,26800,16900,75%,24600,44700
+553,Harding University,"Searcy, AR",1100/25,30700,19700,92%,27000,46100
+554,University of Missouri-St Louis,"Saint Louis, MO",1010/24,25300,9400,82%,21000,45800
+555,Wilkes University,"Wilkes-Barre, PA",1010/23,55300,26900,98%,26000,48200
+555,Goldey-Beacom College,"Wilmington, DE",NA/NA,39600,16900,NA,23700,47700
+557,Marian University,"Indianapolis, IN",1020/22,49100,22600,43%,27000,47600
+557,Benedictine College,"Atchison, KS",1060/25,44700,26600,100%,27000,45800
+559,Western Carolina University,"Cullowhee, NC",1020/23,22000,14700,91%,22000,42400
+560,University of Central Missouri,"Warrensburg, MO",NA/23,20000,14600,62%,22400,44400
+561,SUNY Buffalo State,"Buffalo, NY",880/20,25800,12900,90%,21400,40800
+562,Robert Morris University,"Moon Township, PA",1040/24,47400,26300,98%,27000,47400
+563,Geneva College,"Beaver Falls, PA",1070/25,39000,21700,100%,25300,44800
+564,Coe College,"Cedar Rapids, IA",1150/25,56600,23500,100%,28100,46000
+565,Reed College,"Portland, OR",1380/31,71500,29900,98%,16000,51100
+566,Union University,"Jackson, TN",1160/27,53000,27700,59%,24800,44300
+567,Dominican College of Blauvelt,"Orangeburg, NY",890/19,46700,21200,96%,26000,47800
+567,The Master's University and Seminary,"Santa Clarita, CA",1080/25,48900,28600,97%,20500,45100
+569,Cabrini University,"Radnor, PA",970/21,47900,26800,100%,26800,46000
+570,George Fox University,"Newberg, OR",1080/24,50100,30000,100%,22400,49300
+571,Ashland University,"Ashland, OH",1060/23,34800,22100,91%,26300,41800
+571,Southern Connecticut State University,"New Haven, CT",930/21,26500,16100,66%,23300,46600
+571,Keiser University-Ft Lauderdale,"Fort Lauderdale, FL",NA/NA,32200,28300,NA,25800,42500
+574,New College of Florida,"Sarasota, FL",1250/29,21100,12800,92%,14900,43700
+575,University of North Carolina at Greensboro,"Greensboro, NC",1040/23,21200,11200,67%,22700,41900
+576,SUNY at Purchase College,"Purchase, NY",1080/24,27000,19500,98%,22500,45500
+577,North Carolina A & T State University,"Greensboro, NC",930/20,18300,10300,82%,29000,49300
+578,Hood College,"Frederick, MD",NA/NA,56200,25600,100%,27000,44400
+579,University of Michigan-Dearborn,"Dearborn, MI",NA/25,22600,12200,78%,25800,52400
+579,North Park University,"Chicago, IL",1020/21,42400,21600,NA,26300,44800
+581,Centenary University,"Hackettstown, NJ",940/18,49500,23500,98%,25500,42600
+582,Xavier University of Louisiana,"New Orleans, LA",1000/23,37300,18700,67%,26500,44700
+583,Eastern Mennonite University,"Harrisonburg, VA",1030/24,50800,25200,99%,23500,43600
+584,Gordon College,"Wenham, MA",1050/26,51100,31400,100%,27000,44700
+585,The Evergreen State College,"Olympia, WA",1050/23,21900,14400,87%,17600,44500
+586,The University of Montana-Western,"Dillon, MT",1060/19,18900,11600,66%,20900,35900
+587,University of Louisville,"Louisville, KY",NA/26,27100,17400,90%,19700,47000
+588,Emerson College,"Boston, MA",1230/28,66900,42200,88%,23500,46800
+588,Notre Dame de Namur University,"Belmont, CA",910/20,55700,31000,100%,25200,53500
+590,The College of Wooster,"Wooster, OH",1210/27,63400,32000,97%,26000,45800
+591,California Institute of the Arts,"Valencia, CA",NA/NA,70600,54200,99%,28500,48200
+592,William Jewell College,"Liberty, MO",1130/25,49100,24500,91%,25000,48200
+593,Eastern Connecticut State University,"Willimantic, CT",NA/NA,27700,18300,70%,23000,46300
+594,Wittenberg University,"Springfield, OH",NA/NA,53300,27200,97%,27000,48400
+595,Plymouth State University,"Plymouth, NH",NA/NA,29000,22400,64%,27000,43500
+596,Andrews University,"Berrien Springs, MI",1100/25,40700,23600,68%,27000,44400
+597,Neumann University,"Aston, PA",890/18,47100,24300,83%,27000,48200
+598,Missouri State University-Springfield,"Springfield, MO",1090/24,21600,16000,80%,22500,43000
+599,Gallaudet University,"Washington, DC",890/17,38100,14600,98%,16500,41900
+600,Hofstra University,"Hempstead, NY",1170/27,62700,34500,95%,23500,53000
+601,Fisher College,"Boston, MA",NA/NA,52700,28200,85%,19200,42800
+602,Mercer University,"Macon, GA",1200/27,52500,22200,99%,25000,46600
+603,Central Michigan University,"Mount Pleasant, MI",1020/23,24700,15300,78%,27000,45000
+604,Samford University,"Birmingham, AL",1130/26,47600,31700,95%,22500,45800
+605,Northern Arizona University,"Flagstaff, AZ",NA/NA,27600,15800,69%,20000,46700
+605,Everglades University,"Boca Raton, FL",NA/NA,27100,26800,NA,40900,44800
+607,Grand View University,"Des Moines, IA",960/21,39900,20700,90%,23900,42700
+608,Ouachita Baptist University,"Arkadelphia, AR",1080/25,38500,20200,99%,22500,42600
+609,Washington College,"Chestertown, MD",NA/NA,62500,35100,92%,24300,49900
+610,Roger Williams University,"Bristol, RI",NA/NA,54000,37900,69%,27000,50000
+611,The University of Alabama,"Tuscaloosa, AL",1110/27,30100,21600,75%,23800,49000
+612,Tuskegee University,"Tuskegee, AL",1000/22,40300,30600,73%,32100,50700
+613,Carroll University,"Waukesha, WI",1050/24,45200,26000,100%,27000,43300
+614,Eureka College,"Eureka, IL",1020/22,37600,19800,100%,25400,41600
+615,Virginia Commonwealth University,"Richmond, VA",1090/24,31900,22100,68%,23300,47000
+615,Western Michigan University,"Kalamazoo, MI",1010/22,25700,16600,70%,26600,48100
+617,Western Illinois University,"Macomb, IL",NA/21,26500,17700,68%,24700,44100
+618,University of Cincinnati-Main Campus,"Cincinnati, OH",1160/26,28800,21500,42%,23000,50700
+619,Cornell College,"Mount Vernon, IA",1120/26,57300,30000,100%,27000,45200
+620,St Thomas University,"Miami Gardens, FL",950/19,48300,20200,NA,22800,44400
+620,Vanguard University of Southern California,"Costa Mesa, CA",930/21,47900,23400,62%,25000,45200
+622,Milwaukee Institute of Art & Design,"Milwaukee, WI",NA/NA,49100,26800,99%,27000,42100
+623,Kutztown University of Pennsylvania,"Kutztown, PA",980/20,27700,20800,62%,26100,42600
+624,Millersville University of Pennsylvania,"Millersville, PA",1030/22,29600,20000,71%,25500,45000
+624,SUNY College of Agriculture and Technology at Cobleskill,"Cobleskill, NY",1010/22,25400,15900,80%,17400,39300
+626,University of the Incarnate Word,"San Antonio, TX",900/19,47900,23000,100%,27200,44200
+627,Howard University,"Washington, DC",1140/25,44200,24400,63%,27000,52200
+628,University of South Carolina-Upstate,"Spartanburg, SC",950/21,25500,15500,67%,22500,43500
+629,East Stroudsburg University of Pennsylvania,"East Stroudsburg, PA",940/22,23500,17600,67%,25000,42700
+630,College for Creative Studies,"Detroit, MI",NA/23,59200,37900,NA,27000,48200
+630,Rockford University,"Rockford, IL",1080/22,44200,25000,99%,25000,44200
+632,University of Alabama at Birmingham,"Birmingham, AL",1140/25,26700,17300,89%,21500,46000
+633,Massachusetts College of Liberal Arts,"North Adams, MA",1010/23,25200,16100,84%,24700,41400
+634,Bridgewater College,"Bridgewater, VA",1010/23,50900,21700,100%,27000,41800
+635,La Roche College,"Pittsburgh, PA",920/20,43600,24100,80%,26000,41700
+636,Millsaps College,"Jackson, MS",1140/26,56600,24500,100%,27000,47100
+637,Abilene Christian University,"Abilene, TX",1050/24,49500,28900,99%,25300,46400
+638,Hampden-Sydney College,"Hampden-Sydney, VA",1120/25,61800,35700,100%,27000,54800
+639,California Baptist University,"Riverside, CA",980/22,47100,27800,75%,27000,43300
+640,Mercy College,"Dobbs Ferry, NY",NA/NA,38200,17200,87%,23700,44300
+641,Alma College,"Alma, MI",1030/24,53700,23100,99%,27000,45700
+641,Southern Wesleyan University,"Central, SC",NA/NA,37700,16000,100%,27000,41600
+643,California University of Pennsylvania,"California, PA",920/19,27000,19100,83%,25000,41700
+644,Hendrix College,"Conway, AR",1230/29,61500,24500,100%,27000,45800
+644,Cleveland Institute of Art,"Cleveland, OH",1120/23,58600,32900,100%,29000,44000
+646,Springfield College,"Springfield, MA",1010/26,54000,30500,100%,24500,42300
+647,Hampton University,"Hampton, VA",950/22,41500,26200,95%,27000,49500
+648,Caldwell University,"Caldwell, NJ",960/21,51400,20400,98%,25800,44300
+649,Claflin University,"Orangeburg, SC",890/19,33400,18500,95%,32200,35100
+650,La Sierra University,"Riverside, CA",910/19,46500,25100,100%,30000,46200
+651,Old Dominion University,"Norfolk, VA",1010/22,26200,16300,76%,23500,47200
+652,Georgia State University,"Atlanta, GA",1070/23,26600,15600,73%,23700,47300
+653,Georgia College and State University,"Milledgeville, GA",1130/24,28800,21200,40%,22000,43300
+654,Whitworth University,"Spokane, WA",1130/26,59200,29900,99%,26000,46800
+654,Minneapolis College of Art and Design,"Minneapolis, MN",1070/23,50900,29200,99%,25800,43300
+656,Columbus College of Art and Design,"Columbus, OH",NA/NA,50300,25200,99%,27000,42000
+657,Goucher College,"Baltimore, MD",NA/NA,61200,34500,100%,26000,47100
+658,Siena Heights University,"Adrian, MI",NA/NA,39800,18800,NA,17700,42500
+659,Berry College,"Mount Berry, GA",1150/27,51800,26600,100%,23000,42000
+660,College of Charleston,"Charleston, SC",1100/25,30400,20300,67%,21500,44100
+661,SUNY College at Potsdam,"Potsdam, NY",NA/NA,24700,15300,83%,25000,40600
+662,California College of the Arts,"San Francisco, CA",NA/NA,66500,41100,100%,28000,52500
+663,Spring Arbor University,"Spring Arbor, MI",1020/22,40900,19800,99%,24000,39800
+664,Brenau University,"Gainesville, GA",950/22,46000,21100,98%,27000,42600
+665,Chaminade University of Honolulu,"Honolulu, HI",970/21,42500,20000,93%,22500,43200
+666,Cumberland University,"Lebanon, TN",930/21,37100,22300,47%,21700,43200
+667,Alverno College,"Milwaukee, WI",NA/NA,41400,20300,99%,31700,44200
+668,Carthage College,"Kenosha, WI",1030/24,58600,29600,100%,27000,46200
+669,Bennington College,"Bennington, VT",NA/NA,72500,39800,99%,26000,45800
+670,Maryland Institute College of Art,"Baltimore, MD",1160/25,64400,45000,NA,27000,45300
+671,Westminster College,"Fulton, MO",1020/24,41500,22100,100%,26400,47200
+672,Western Kentucky University,"Bowling Green, KY",980/23,22000,12300,63%,24300,43100
+673,SUNY College of Technology at Delhi,"Delhi, NY",NA/NA,24800,15000,NA,15300,41300
+673,Mansfield University of Pennsylvania,"Mansfield, PA",960/21,29400,18300,69%,27000,41800
+673,Spalding University,"Louisville, KY",990/21,37700,22400,NA,25000,44000
+676,Thomas College,"Waterville, ME",NA/NA,40700,22100,99%,27000,44200
+677,Asbury University,"Wilmore, KY",1120/25,41500,25500,69%,25900,37400
+678,Mercyhurst University,"Erie, PA",NA/NA,53000,23200,100%,26700,42200
+679,Stetson University,"DeLand, FL",NA/NA,62800,27100,99%,27000,44100
+680,Rollins College,"Winter Park, FL",NA/NA,69400,38400,100%,26000,45700
+681,Florida Agricultural and Mechanical University,"Tallahassee, FL",990/22,23400,14100,86%,28500,45900
+682,Ringling College of Art and Design,"Sarasota, FL",NA/NA,67100,47700,100%,27000,45000
+683,Georgia Southern University,"Statesboro, GA",1110/24,23400,17300,82%,23000,46300
+684,Eastern University,"Saint Davids, PA",1040/21,49400,24600,85%,26500,42700
+685,Morehouse College,"Atlanta, GA",980/22,49900,33700,83%,27000,52100
+686,Champlain College,"Burlington, VT",1130/25,59400,41200,96%,26600,48800
+687,Roanoke College,"Salem, VA",1090/24,60800,32200,98%,27000,45200
+688,Bluffton University,"Bluffton, OH",NA/22,47300,27000,99%,27000,39200
+689,Davenport University,"Grand Rapids, MI",NA/NA,31400,18000,NA,26800,43700
+690,Belmont University,"Nashville, TN",1150/27,52000,37200,88%,21800,44000
+691,Bowling Green State University-Main Campus,"Bowling Green, OH",1030/22,25200,18600,82%,26000,44500
+691,Johnson & Wales University-Providence,"Providence, RI",NA/NA,50400,30300,86%,26900,44500
+693,Mills College,"Oakland, CA",1080/26,65300,29700,92%,23500,47300
+694,Ohio University-Main Campus,"Athens, OH",1100/24,27900,23500,77%,20500,48300
+695,Indiana University of Pennsylvania-Main Campus,"Indiana, PA",950/20,28000,18500,67%,27000,44200
+696,Winthrop University,"Rock Hill, SC",1020/23,28900,17900,91%,27000,41600
+697,North Carolina Central University,"Durham, NC",880/18,22700,11600,83%,31000,41600
+698,Edinboro University of Pennsylvania,"Edinboro, PA",950/20,26000,15400,93%,27000,40200
+699,Point Park University,"Pittsburgh, PA",1000/23,45800,23900,99%,27000,42500
+700,Kansas City Art Institute,"Kansas City, MO",1090/23,55800,31100,100%,27000,41600
+701,Guilford College,"Greensboro, NC",NA/NA,52000,28600,86%,26600,40800
+702,Upper Iowa University,"Fayette, IA",870/21,45300,25100,85%,24000,43100
+703,Virginia State University,"Petersburg, VA",820/17,23100,16400,80%,29500,42600
+704,Tiffin University,"Tiffin, OH",NA/NA,38700,22500,97%,26100,42600
+705,Birmingham Southern College,"Birmingham, AL",1090/26,53700,26400,68%,26900,45600
+706,Olivet College,"Olivet, MI",1030/21,40900,22500,93%,27000,43300
+707,Eckerd College,"Saint Petersburg, FL",1110/25,60600,36000,99%,27000,45300
+708,Wilmington College,"Wilmington, OH",920/21,39400,25000,96%,27000,41500
+709,School of the Art Institute of Chicago,"Chicago, IL",1130/25,68900,46700,99%,25700,44700
+710,Marywood University,"Scranton, PA",1030/NA,51500,25300,100%,27000,41000
+711,Southwestern Assemblies of God University,"Waxahachie, TX",920/22,35300,27300,92%,26300,38000
+712,Liberty University,"Lynchburg, VA",1070/25,39300,26600,99%,24200,41300
+713,Savannah College of Art and Design,"Savannah, GA",1070/24,57700,43900,96%,27000,43600
+713,Lincoln University,"Lincoln University, PA",840/17,28000,18800,99%,31500,47300
+715,Medaille College,"Buffalo, NY",890/21,45000,15300,97%,25000,38600
+716,Southern New Hampshire University,"Manchester, NH",NA/NA,51600,37600,59%,18800,45600
+717,Bard College,"Annandale-On-Hudson, NY",NA/NA,72300,31500,98%,26200,48500
+718,Kent State University at Kent,"Kent, OH",1060/23,26100,19500,54%,25800,43400
+719,High Point University,"High Point, NC",1100/24,52300,41100,69%,22400,45100
+720,Cornerstone University,"Grand Rapids, MI",1000/22,41500,21400,100%,25000,40500
+721,Glenville State College,"Glenville, WV",850/19,23700,12900,87%,24000,39700
+722,Delaware State University,"Dover, DE",900/19,24000,13100,70%,28500,43400
+723,Hampshire College,"Amherst, MA",NA/NA,68700,36700,97%,23500,45800
+724,Berklee College of Music,"Boston, MA",NA/NA,65100,44300,35%,25300,44700
+725,Johnson C Smith University,"Charlotte, NC",830/17,32900,20400,95%,32100,43300
+726,Tougaloo College,"Tougaloo, MS",1020/20,23400,13400,NA,35000,37100
+727,Philander Smith College,"Little Rock, AR",NA/NA,26000,17200,94%,31000,34700
