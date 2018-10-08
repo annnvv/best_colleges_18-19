@@ -1,0 +1,206 @@
+---
+title: "727 Best Colleges in America"
+author: "Anna Vasylytsya"
+date: "September 24, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here I explore the data from the 727 Best Colleges in America (2018-2019) [link here](http://time.com/money/best-colleges/). The website provides great raw data, but it is challenging to get something meaningful out of the data besides which schools are at the top and which are at the bottom.
+
+I have heard the common advice to not take on more debt than your expected salary after graduation. This data has both average debt and early career earnings. So, I wanted to explore, do students heed this advice (on average)?
+
+I should note that the website does not provide much documentation about how it defined or calculated their data (e.g. average student debt - not sure whether this is per year or per four years and early career earnings - not sure how this was calculated). I am going to take the data at face value because this is not a data validation nor critiquing exercise. 
+
+```{r, warning = FALSE, message = FALSE}
+```
+
+### Load Libraries and Data
+```{r, warning = FALSE, message = FALSE}
+library(rio)
+
+schools <- import("https://raw.githubusercontent.com/annnvv/best_colleges_18-19/master/data/best_schools_clean_latlong.csv", header = TRUE)
+```
+
+## Map of the 727 Best Universities and Colleges (2018-2019)
+The map below shows the location of each of the 727 colleges on this list. 
+
+You can zoom in and out on the map. Also, you can hover over a point to see the name of the college.
+
+As you can see, there are few colleges represented in the midwest and many colleges represented on the east coast.
+
+If you are interested in how I got the coordinates of the colleges, please visit my GitHub repo [here](https://github.com/annnvv/best_colleges_18-19/scripts).
+
+```{r pressure, echo=FALSE}
+library(leaflet)
+
+ leaflet() %>% 
+   setView(lng =-98.5795, lat = 39.828175, zoom = 4) %>% 
+   addProviderTiles(providers$CartoDB.Positron) %>% 
+   addCircleMarkers(schools, lng = schools$lon, lat = schools$lat,
+                    radius = 2.5, label = schools$name)
+  
+```
+
+### Are Student taking out more debt on average than they are making early on in their career?
+```{r, warning = FALSE, message = FALSE}
+
+
+```
+
+```{r, warning = FALSE, message = FALSE}
+library(leaflet)
+
+```
+
+
+### Histograms of Average Student Debt and Early Career Earnings 
+```{r, warning = FALSE, message = FALSE}
+library(ggplot2)
+
+# Two figures arranged in 2 rows and 1 column
+par(mfrow=c(2,1)) 
+
+ggplot(data=schools, aes(schools$ave_student_debt)) + 
+  geom_histogram() +
+  labs(title = "Average Student Debt", subtitle = "2018-2019",
+     x = "Average Student Debt", y = "Number of Schools") +
+  scale_x_continuous(limits = c(0, 90000)) +
+  scale_y_continuous(limits = c(0, 200))
+
+ggplot(data=schools, aes(schools$early_career_earnings)) + 
+  geom_histogram() +
+  labs(title = "Early Career Earnings", subtitle = "2018-2019",
+     x = "Early Career Earnings", y = "Number of Schools") +
+  scale_x_continuous(limits = c(0, 90000)) +
+  scale_y_continuous(limits = c(0, 200))
+
+```
+
+### Scatterplot Student Debt vs. Early Career Earnings
+
+```{r, warning = FALSE, message = FALSE}
+library(ggplot2)
+ggplot(schools, aes(x = ave_student_debt, y = early_career_earnings)) +
+  geom_point(size = 2, shape = 1) + 
+  labs(title = "Average Student Debt vs. Early Career Earnings: Schools ranked in top 100", subtitle = "2018-2019",
+       x = "Average Student Debt", y = "Early Career Earnings") +
+  scale_x_continuous(limits = c(0, 80000)) +
+  scale_y_continuous(limits = c(0, 80000)) +
+  geom_abline(slope = 1, intercept = 0)
+
+```
+
+### Scatterplot Average Student Debt vs. Early Career Earnings - TOP 100
+
+```{r, warning = FALSE, message = FALSE}
+top100 <- schools[c(1:100), ]
+
+library(ggplot2)
+ggplot(top100, aes(x = ave_student_debt, y = early_career_earnings)) +
+  geom_point(size = 2, shape = 1) + 
+  labs(title = "Average Student Debt vs. Early Career Earnings: Schools ranked in top 100", subtitle = "2018-2019",
+       x = "Average Student Debt", y = "Early Career Earnings") +
+  scale_x_continuous(limits = c(0, 80000)) +
+  scale_y_continuous(limits = c(0, 80000)) +
+  geom_abline(slope = 1, intercept = 0)
+
+```
+
+### Are students going to colleges that cost more than they are making early on in their career?
+To get at answering this question, I calculated...
+
+```{r, warning = FALSE, message = FALSE}
+
+
+```
+
+### Scatterplot Cost of Attendance vs. Early Career Earnings
+
+```{r, warning = FALSE, message = FALSE}
+library(ggplot2)
+ggplot(schools, aes(x = est_price_2018.19_with_avg._grant, y = early_career_earnings)) +
+  geom_point(size = 2, shape = 1) + 
+  labs(title = "Cost of Attendance vs. Early Career Earnings", subtitle = "2018-2019",
+   x = "Cost of Attendance with Aid", y = "Early Career Earnings") +
+  scale_x_continuous(limits = c(0, 80000)) +
+  scale_y_continuous(limits = c(0, 80000)) +
+  geom_abline(slope = 1, intercept = 0)
+
+```
+
+### Summary Figures for Esimated Price without and with Financial Aid
+On average without financial aid, the price of college attendance is `r mean(schools$est_price_2018_19_without_aid)` 
+(min: `r min(schools$est_price_2018_19_without_aid)`, max: `r max(schools$est_price_2018_19_without_aid)`).
+
+On average with financial aid, the price of college attendance is `r mean(schools$est_price_2018.19_with_avg._grant)` (min: `r min(schools$est_price_2018.19_with_avg._grant)`, max: `r max(schools$est_price_2018.19_with_avg._grant)`)
+```{r}
+```
+
+### Boxplots of the Estimated Price without Financial Aid by State
+```{r, warning = FALSE, message = FALSE, fig.width = 14}
+#library(stats)
+#by_state <- aggregate(schools$est_price_2018_19_without_aid, by = list(schools$state), FUN = mean)
+
+library(ggplot2)
+ggplot(schools, aes(x = state, y = est_price_2018_19_without_aid)) + 
+  geom_boxplot() + 
+  stat_summary(fun.x = mean, geom = "point", size = 2, color = "blue") +
+  labs(title = "Estimated Price without Financial Aid by State", subtitle = "2018-2019",
+       x = "State", y = "Estimated Price without Financial Aid")
+```
+
+### Boxplots of the Estimated Price with Financial Aid by State
+```{r, warning = FALSE, message = FALSE, fig.width = 14}
+library(ggplot2)
+ggplot(schools, aes(x = state, y = est_price_2018.19_with_avg._grant)) + 
+  geom_boxplot() + 
+  stat_summary(fun.x = mean, geom = "point", size = 2, color = "blue") +
+  labs(title = "Estimated Price with Financial Aid by State", subtitle = "2018-2019",
+       x = "State", y = "Estimated Price with Financial Aid")
+```
+
+
+### Using Machine Learning to try to Predict the Estimated Price of these Schools
+
+```{r, warning = FALSE, message = FALSE}
+library(randomForest)
+library(rpart)
+
+## Clean data a bit for the random forest
+# Make states into factors
+schools$state <- factor(schools$state)
+# Delete any schools that have missing/null data
+schools2 <- schools[complete.cases(schools), ]
+
+schools2 <- schools2[ ,c(8, 6,7,1,11,12)]
+
+# Randomly subset data into train and test
+  set.seed(100)
+  rand <- runif(nrow(schools2)) 
+  rand <- rand > 0.3
+
+# Create train test sets
+  train <- schools2[rand == T, ]
+  test <- schools2[rand == F, ]
+
+formula1 <- as.formula(est_price_2018_19_without_aid ~ SAT + ACT + rank + ave_student_debt + early_career_earnings)
+
+fit <- rpart(formula1, method="anova", data = train)
+
+# Tune the random forest
+fit <- tuneRF(train[,-1], train$est_price_2018_19_without_aid, ntreeTry=200,
+               stepFactor=1.5,improve=0.01, trace=TRUE, plot=TRUE)
+best.m <- fit[fit[, 2] == min(fit[, 2]), 1]
+
+set.seed(71)
+fit2 <-randomForest(est_price_2018_19_without_aid ~ ., data = train, mtry=best.m, importance=TRUE,ntree=200)
+print(fit2)
+
+```
+
+### Next Steps
+If I were to take this further, I am interested in whether these colleges are public or private. Mostly likely, I would try to scrape this information from Wikipedia.
